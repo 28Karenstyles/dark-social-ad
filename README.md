@@ -1,4 +1,4 @@
-# Remotion video
+# Dark Side of Social Media 📱
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
@@ -9,7 +9,29 @@
   </a>
 </p>
 
-Welcome to your Remotion project!
+A cinematic video ad built entirely with code — no video editor, no timeline, just React and Remotion.
+
+## Watch the video
+
+[▶ EP 01 — I Coded a Video About Doom Scrolling](https://drive.google.com/file/d/126vOsjAkrKM_PJsY7frg7V6vdDE-r9Ot/view?usp=sharing)
+
+## What it is
+
+A 45-second awareness video about doom scrolling and social media addiction. Every animation, transition and graphic was written in JavaScript.
+
+## Built with
+
+- [Remotion](https://remotion.dev) — video generation in React
+- React + TypeScript
+- CapCut — sound effects and final touches
+
+## Scenes
+
+- **0–5s** — Animated phone with infinite scroll
+- **5–15s** — Spinning clock (time flying away)
+- **15–25s** — Dopamine loop diagram
+- **25–33s** — Human figure with beating heart
+- **33–45s** — Phone laying down animation
 
 ## Commands
 
@@ -41,14 +63,6 @@ npx remotion upgrade
 
 Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
 
-## Help
+## Part of
 
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+**"What Else Can Code Do?"** — a dev series by Karen 🖥️
